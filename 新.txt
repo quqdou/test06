@@ -1,0 +1,10 @@
+git clone  地址
+# 把本地修改的内容提交到暂存区
+git add   .
+
+# 把本地修改的内容提交到暂存区
+git commit -m "信息"
+
+
+git pull   # 把远程仓库拉到本地
+git push#把本地仓库推送到远程
